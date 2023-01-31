@@ -1,0 +1,19 @@
+.container {
+  margin: 0 auto;
+  width: 1200px;
+  height: 300px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+}
+
+code {
+  margin-top: 10px;
+  font-family: monospace;
+  background-color: #eee;
+  padding: 10px;
+  border: 1px solid #eee;
+  height: 200px;
+  overflow-y: scroll;
+}
